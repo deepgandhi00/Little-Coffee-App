@@ -1,17 +1,54 @@
-# the_coffee_place
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
 # Little-Coffee-App
+
+SPLASH PAGE
+
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/splash_screen.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/splash_screen.jpg" ></a>
+
+
+SIGN OPTION UP PAGE
+
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/signup_page.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/signup_page.jpg" ></a>
+
+
+SIGN UP PAGE
+
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/signup.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/signup.jpg" ></a>
+
+
+LOGIN PAGE
+
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/login_page.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/login_page.jpg" ></a>
+
+
+HOME PAGE
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/homepage.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/homepage.jpg" ></a>
+
+
+ITEMS IN CATEGORY PAGE
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/items_in_category_page.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/items_in_category_page.jpg" ></a>
+
+
+ITEM DETAIL PAGE
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/product_detail_page.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/product_detail_page.jpg" ></a>
+
+
+ACCOUNT PAGE
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/account_page.PNG"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/account_page.PNG" ></a>
+
+
+CART PAGE
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/cart_page.PNG"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/cart_page.PNG" ></a>
+
+
+DRAWER PAGE
+
+<a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/drawer_page.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/drawer_page.jpg" ></a>
