@@ -1,6 +1,6 @@
 # Little-Coffee-App
 
-SPLASH PAGE
+SPLASH PAGE:-
 
 
 <a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/splash_screen.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/splash_screen.jpg" ></a>
