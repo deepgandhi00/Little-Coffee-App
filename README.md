@@ -6,7 +6,7 @@ SPLASH PAGE:-
 <a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/splash_screen.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/splash_screen.jpg" ></a>
 
 
-SIGN OPTION UP PAGE
+SIGN OPTION UP PAGE :-
 
 
 <a href="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/signup_page.jpg"><img src="https://deepgandhi.000webhostapp.com/little_coffee_place_ss/signup_page.jpg" ></a>
